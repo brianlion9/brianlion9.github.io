@@ -6,6 +6,7 @@ h1, p {
     color: black;
 }
 
-h1, {font-family: georgia, sans-serif; 
+h1, {
+	font-family: georgia, sans-serif; 
 }
 
