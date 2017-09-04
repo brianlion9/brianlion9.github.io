@@ -1,6 +1,6 @@
 body {
     background-color: #E8E4E4;
-    text-align: center;
+    text-align: left;
 }
 
 h1, p {
@@ -10,4 +10,5 @@ h1, p {
 
 h1 {
 	font-weight: bold;
+	text-align: center;
 }
