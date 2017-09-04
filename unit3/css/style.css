@@ -9,6 +9,10 @@ h1, h3 {
     font-family: verdana, sans-serif;
 }
 
+#slogan{
+	font-style: italic;
+}
+
 p {
 	font-family: verdana, sans-serif;
 
