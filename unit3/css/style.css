@@ -1,9 +1,10 @@
 body {
     background-color: #E8E4E4;
     text-align: left;
+
 }
 
-h1, p, h3 {
+h1, h3 {
     color: black;
     font-family: verdana, sans-serif;
 }
@@ -12,10 +13,12 @@ h1, h3, {
 	font-weight: bold;
 }
 
-p {
+#aboutme {
 	text-align: center;
 }
 
 #improvrules {
 	text-align: left;
 }
+
+
