@@ -25,6 +25,9 @@ h2 {
 }
 h3 {font-size: 20px
 }
+#aboutme {
+	text-align: center;
+}
 #intro {
 	background:url(../images/improvgroup.jpeg);
 	background-size:cover;
