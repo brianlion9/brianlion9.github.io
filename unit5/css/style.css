@@ -27,6 +27,9 @@ h3 {font-size: 20px
 }
 #aboutme {
 	text-align: center;
+    background-color: orange;
+    border: 1px black solid;
+    padding: 20px;
 }
 #intro {
 	background:url(../images/improvgroup.jpeg);
@@ -34,4 +37,26 @@ h3 {font-size: 20px
 	color:#fff;
 	padding:10em 0 0;
 	height:90vh;
+}
+
+header {
+    background-color: blue;
+    border: 1px black solid;
+    padding: 20px;
+}
+#whyimprov {
+    background-color: yellow;
+    border: 1px black solid;
+    padding: 20px;
+}
+#improvrules {
+    background-color: red;
+    border: 1px black solid;
+    padding: 20px;
+}
+footer {
+    background-color: purple;
+    border: 1px black solid;
+    padding: 20px;
+}
 }
