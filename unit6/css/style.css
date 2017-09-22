@@ -71,5 +71,11 @@ nav a {
 #rules {
   text-align: center;
 }
-
+.column {
+  width: 260px;
+  height: 300px;
+  padding: 20px;
+  margin: 2em;
+  float: left;
+}
 
