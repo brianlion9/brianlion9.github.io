@@ -71,11 +71,23 @@ nav a {
 #rules {
   text-align: center;
 }
+div {
+  font-size: 1.2em;
+  width: 30.66666%;
+  padding: 2%;
+  display: inline-block; 
+}
 .column {
   width: 260px;
   height: 300px;
   padding: 20px;
   margin: 2em;
   float: left;
+}
+footer {
+    padding: 10px;
+    text-align: center;
+    margin: 1em 0 2.5em 0;
+    clear: both;
 }
 
