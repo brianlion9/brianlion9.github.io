@@ -67,7 +67,7 @@ nav {
 }
 nav a {
   text-decoration: none;
-  color: #000000;
+  color: #2B2B2B;
   margin: 1.5em;
 }
 #rules {
@@ -85,7 +85,9 @@ div {
   padding: 20px;
   margin: 2em;
   float: left;
-  background-color: grey;
+  background-color: #2B2B2B;
+  font-color: white;
+
 }
 .clearfix:after {
     visibility: hidden;
