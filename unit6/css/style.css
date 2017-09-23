@@ -86,7 +86,7 @@ div {
   margin: 2em;
   float: left;
   background-color: #2B2B2B;
-  font-color: white;
+  text-decoration-color: white;
 
 }
 .clearfix:after {
