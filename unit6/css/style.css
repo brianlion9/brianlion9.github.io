@@ -69,7 +69,7 @@ nav a {
   margin: 1.5em;
 }
 a:hover {
-  background-color: #FC5E2C;
+  background-color: #FC6846;
 }
 #rules {
   text-align: center;
@@ -86,7 +86,7 @@ div {
   padding: 20px;
   margin: 2em;
   float: left;
-  background-color: #FC5E2C;
+  background-color: #FC6846;
 }
 #specialfont {
   color: white;
