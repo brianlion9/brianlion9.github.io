@@ -65,13 +65,14 @@ nav {
   font-size: 1em;
   float: right;
   display: block;
-  background-color: blue;
-  color: white;
 }
 nav a {
   text-decoration: none;
   color: #2B2B2B;
   margin: 1.5em;
+}
+a:hover {
+  background-color: #aaaaaa;
 }
 #rules {
   text-align: center;
