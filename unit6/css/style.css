@@ -61,7 +61,6 @@ section {
 nav {
   font-size: 1em;
   float: right;
-  display: block;
 }
 nav a {
   text-decoration: none;
