@@ -33,20 +33,6 @@ h3 {font-size: 20px
     border: 1px black solid;
     padding: 20px;
 }
-#left {
-    background-color: blue;
-    border: 1px black solid;
-    padding: 20px;
-    float: left;
-    width: 30%;
-}
-#right {
-    background-color: green;
-    border: 1px black solid;
-    padding: 20px;
-    float: right;
-    width: 62;
-}
 #intro {
 	background:url(../images/improvgroup.jpeg);
 	background-size:cover;
