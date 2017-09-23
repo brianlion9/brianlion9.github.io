@@ -85,8 +85,9 @@ div {
   padding: 20px;
   margin: 2em;
   float: left;
+  background-color: grey;
 }
-.clearfix {
+.clearfix:after {
     visibility: hidden;
     display: block;
     font-size: 0;
