@@ -86,8 +86,9 @@ div {
   margin: 2em;
   float: left;
   background-color: #2B2B2B;
-  text-decoration-color: white;
-
+}
+#specialfont {
+  font-color: white;
 }
 .clearfix:after {
     visibility: hidden;
