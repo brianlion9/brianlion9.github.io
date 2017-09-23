@@ -64,6 +64,9 @@ section {
 nav {
   font-size: 1em;
   float: right;
+  display: block;
+  background-color: blue;
+  color: white;
 }
 nav a {
   text-decoration: none;
