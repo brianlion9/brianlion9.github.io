@@ -61,14 +61,11 @@ section {
 nav {
   font-size: 1em;
   float: right;
-  background-color: #FF5722;
 }
 nav a {
   text-decoration: none;
   color: #2B2B2B;
   margin: 1.5em;
-  display: block;
-  clear: both;
 }
 a:hover {
   background-color: #FF5722;
