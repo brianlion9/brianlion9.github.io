@@ -101,7 +101,7 @@ div {
   margin: 2em;
   float: left;
 }
-.clearfix {
+.clearfix: after {
     visibility: hidden;
     display: block;
     font-size: 0;
