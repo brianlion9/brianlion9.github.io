@@ -29,6 +29,23 @@ h3 {font-size: 20px
     border: 1px black solid;
     padding: 10px;
     margin: 1em 0 2.5em 0;
+    background-color: grey;
+    border: 1px black solid;
+    padding: 20px;
+}
+#left {
+    background-color: blue;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 30%;
+}
+#right {
+    background-color: green;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;
+    width: 62;
 }
 #intro {
 	background:url(../images/improvgroup.jpeg);
@@ -84,7 +101,7 @@ div {
   margin: 2em;
   float: left;
 }
-.clearfix:after {
+.clearfix: after {
     visibility: hidden;
     display: block;
     font-size: 0;
