@@ -80,10 +80,9 @@ div {
   display: inline-block; 
 }
 .column {
-  width: 260px;
-  height: 300px;
+  width: 32%;
   padding: 20px;
-  margin: 2em;
+  margin: 1%;
   float: left;
   background-color: #FF5722;
   color: #fff;
