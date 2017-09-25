@@ -41,6 +41,13 @@ header {
     padding: 10px;
     margin: 1em 0 2.5em 0;
 }
+img {
+    float: left;
+}
+#me {
+    float: right;
+    clear: both;
+}
 #whyimprov {
     padding: 10px;
     margin: 1em 0 2.5em 0;
