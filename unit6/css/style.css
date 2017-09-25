@@ -85,11 +85,11 @@ a:hover {
   text-align: center;
 }
 .column {
-  width: 30%;
+  width: 28%;
   padding: 20px;
   margin: 2%;
   float: left;
-  color: #fff;
+  color: grey;
 
 .clearfix:after {
     visibility: hidden;
