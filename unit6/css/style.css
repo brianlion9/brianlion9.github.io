@@ -55,7 +55,6 @@ img {
     float: right;
     margin: 1em 0 2.5em 0;
     clear: both;
-
 }
 #whyimprov {
     padding: 10px;
@@ -94,11 +93,11 @@ a:hover {
     margin: 2%;
     float: left;
     color: #fff;
-
+}
 .clearfix:after {
     content: " ";
     visibility: hidden;
-    display: inline-block;
+    display: block;
     height: 0;
     clear: both;
 }
