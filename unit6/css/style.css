@@ -29,6 +29,7 @@ h3 {font-size: 20px
     padding: 10px;
     margin: 1em 0 2.5em 0;
     padding: 20px;
+    clear:both;
 }
 #intro {
 	background:url(../images/improvgroup.jpeg);
@@ -46,7 +47,6 @@ img {
 }
 #me {
     float: right;
-    clear: both;
 }
 #whyimprov {
     padding: 10px;
