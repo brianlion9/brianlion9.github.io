@@ -44,8 +44,8 @@ header {
 }
 img {
     float: left;
-    border-radius: 25%;
-    width: 200px;
+    border-radius: 35%;
+    width: 30%;
 }
 #me {
     float: right;
