@@ -102,7 +102,6 @@ a:hover {
     content: "";
     clear: both;
     height: 0;
-    overflow: auto;
 }
 footer {
     padding: 10px;
