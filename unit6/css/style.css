@@ -48,6 +48,8 @@ header {
 #improvrules {
     padding: 3em;
     margin: 1em 0 2.5em 0;
+    color: #fff;
+    background-color: #FF5722 ;
 }
 footer {
     padding: 10px;
@@ -68,7 +70,7 @@ nav a {
   margin: 1.5em;
 }
 a:hover {
-  background-color: #FF5722;
+  color: #FF5722;
 }
 #rules {
   text-align: center;
@@ -84,7 +86,6 @@ div {
   padding: 20px;
   margin: 2%;
   float: left;
-  background-color: #FF5722;
   color: #fff;
 
 .clearfix:after {
