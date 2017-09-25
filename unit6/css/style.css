@@ -86,10 +86,8 @@ div {
   margin: 2em;
   float: left;
   background-color: #FF5722;
-}
-#specialfont {
-  color: white;
-}
+  color: #fff;
+
 .clearfix:after {
     visibility: hidden;
     display: block;
