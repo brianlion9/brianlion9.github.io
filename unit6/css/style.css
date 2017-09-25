@@ -94,7 +94,7 @@ a:hover {
     float: left;
     color: #fff;
 }
-.clearfix:after {
+.clearfix: after {
     content: " ";
     visibility: hidden;
     display: block;
