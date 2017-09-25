@@ -89,19 +89,18 @@ a:hover {
   text-align: center;
 }
 .column {
-  width: 28%;
-  padding: 20px;
-  margin: 2%;
-  float: left;
-  color: grey;
+    width: 25%;
+    padding: 2%;
+    margin: 2%;
+    float: left;
+    color: #fff;
 
 .clearfix:after {
-    visibility: hidden;
-    display: block;
-    font-size: 0;
-    content: "";
-    clear: both;
-    height: 0;
+    content: " ";
+    visibility: hidden;
+    display: block;
+    height: 0;
+    clear: both;
 }
 footer {
     padding: 10px;
