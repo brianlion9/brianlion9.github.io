@@ -98,9 +98,8 @@ a:hover {
 .clearfix:after {
     content: " ";
     visibility: hidden;
-    display: block;
+    display: inline-block;
     height: 0;
-    float: left;
     clear: both;
 }
 footer {
