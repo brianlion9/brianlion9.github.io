@@ -8,8 +8,11 @@ body {
     line-height:1.5;
     text-align: left;
 }
-#slogan{
+#slogan {
 	font-style: italic;
+}
+#logo {
+  margin: 1em 0 2.5em 0;
 }
 p {
 	margin: 1em 0 2.5em 0;
@@ -76,7 +79,7 @@ nav {
 nav a {
   text-decoration: none;
   color: #2B2B2B;
-  margin: 1.5em;
+  margin: 1em 0 2.5em 0;
 }
 a:hover {
   color: #FF5722;
