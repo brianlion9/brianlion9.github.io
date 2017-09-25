@@ -46,6 +46,7 @@ img {
     float: left;
     border-radius: 100%;
     width: 30%;
+    margin: 1em 0 2.5em 0;
 }
 #me {
     float: right;
