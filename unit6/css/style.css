@@ -36,7 +36,7 @@ h3 {
 #aboutme {
 	 text-align: center;
     padding: .25em;
-    margin: 1em 0 2em 0;
+    margin: 1em 0 2.5em 0;
     padding: 1em;
     clear:both;
 }
@@ -62,11 +62,11 @@ img {
 }
 #whyimprov {
     padding: 10px;
-    margin: 1em 0 1em 0;
+    margin: 1em 0 2.5em 0;
 }
 #improvrules {
     padding: .25em;
-    margin: 1em 0 2em 0;
+    margin: 1em 0 2.5em 0;
     color: #fff;
     background-color: #FF5722 ;
     clear: both;
@@ -74,7 +74,7 @@ img {
 footer {
     padding: 10px;
     text-align: center;
-    margin: 1em 0 1em 0;
+    margin: 1em 0 2.5em 0;
 }
 nav {
   font-size: 1em;
