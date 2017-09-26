@@ -108,4 +108,8 @@ footer {
     margin: 1em 0 2.5em 0;
     clear: both;
 }
+#research {
+  background-color: grey;
+  color: #fff;
+}
 
