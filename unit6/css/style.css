@@ -53,6 +53,7 @@ img {
 }
 #me {
     float: right;
+    width: 60%;
     margin: 1em 0 2.5em 0;
 }
 #whyimprov {
