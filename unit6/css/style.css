@@ -67,7 +67,7 @@ img {
     padding: .25em;
     margin: 1em 0 2.5em 0;
     color: #fff;
-    background-color: #FF5722 ;
+    background-color: #F94C09 ;
     clear: both;
   }
 footer {
@@ -86,7 +86,7 @@ nav a {
   padding: 1.5em;
 }
 a:hover {
-  color: #FF5722;
+  color: #F94C09;
   padding: 1.5em;
 }
 #rules {
