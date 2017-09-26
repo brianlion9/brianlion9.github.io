@@ -108,9 +108,10 @@ footer {
     clear: both;
 }
 #research {
-  background-color: grey;
-  color: #fff;
+  background-color: #eee;
+  color: #555;
   margin: 1em 0 2.5em 0;
-  padding: 1em;
+  padding: 2em;
+  font-style: italic;
 }
 
