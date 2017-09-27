@@ -31,6 +31,8 @@ h3 {
   letter-spacing: 2px;
   font-weight: 300;
   font-style: normal;
+  border-bottom: 4px solid black;
+  display: inline-block;
 }
 #aboutme {
 	 text-align: center;
