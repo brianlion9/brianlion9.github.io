@@ -91,6 +91,10 @@ a:hover {
   color: #F95509;
   padding: 1.5em;
 }
+.logo {
+  margin: 0;
+  float: left;
+}
 #rules {
   text-align: center;
 }
