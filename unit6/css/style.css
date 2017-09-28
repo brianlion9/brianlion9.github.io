@@ -95,8 +95,8 @@ a:hover {
   text-align: center;
 }
 .column {
-  width: 25%;
-  padding: 2%;
+  width: 33.3%;
+  padding: 2em;
   margin: 2%;
   float: left;
   color: #fff;
