@@ -123,10 +123,8 @@ footer {
 }
 #research {
   background-color: #eee;
+  margin: 1em 0 2.5em 0;
+  padding: 2em;
   font-style: italic;
-  padding: 60px 0;
-  margin: auto;
-  width: 100%;
-  max-width: 600px;
 }
 
