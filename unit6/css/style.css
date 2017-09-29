@@ -130,6 +130,9 @@ footer {
 }
 .egg {
   background-color: #eee;
+  width: 100%;
+}
+.wrapper {
   max-width: 800px;
   margin: 0 auto;
 }
