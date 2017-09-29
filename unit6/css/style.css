@@ -89,6 +89,7 @@ nav a {
   color: #2B2B2B;
   margin: 0;
   padding: 1.5em;
+  display: inline-block;
 }
 a:hover {
   color: #F95509;
