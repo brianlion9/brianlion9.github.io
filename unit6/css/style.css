@@ -128,4 +128,8 @@ footer {
   padding: 2em;
   font-style: italic;
 }
-
+.egg {
+  background-color: #eee;
+  max-width: 800px;
+  margin: 0 auto;
+}
