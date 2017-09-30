@@ -123,9 +123,12 @@ footer {
     margin: 0;
 }
 #research {
-  margin: 1em 0 2.5em 0;
-  padding: 2em;
-  font-style: italic;
+  text-align: left;
+  padding: .25em;
+  margin: auto;
+  padding: 1em;
+  max-width: 80em;
+  clear: both;
 }
 .egg {
   background-color: #eee;
