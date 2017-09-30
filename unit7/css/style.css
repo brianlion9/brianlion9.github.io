@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700|Roboto:400,700');
+* { margin:0; padding:0; box-sizing:border-box; 
+}
+body {
+    background-color: #FAFAFA;
+    color:#333;
+    font-family: 'Montserrat', sans-serif;
+    font-size:16px;
+    font-weight:400;
+    line-height:1.5;
+    text-align: left;
+}
+#slogan {
+	font-style: italic;
+}
+#logo {
+  margin: 1em 0 2.5em 0;
+}
+p {
+	margin: 1em 0 2.5em 0;
+	font-family: 'Roboto';
+}
+h1 {
+	font-weight: 700;
+	font-size: 52px;
+}
+h2 {
+	font-size:28px;
+}
+h3 {
+  font-size: 20px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 300;
+  font-style: normal;
+}
+#aboutme {
+	text-align: center;
+  padding: .25em;
+  margin: auto;
+  padding: 1em;
+  max-width: 80em;
+  clear: both;
+}
+#intro {
+	background:url(../images/improvgroup.jpeg);
+	background-size:cover;
+	color:#fff;
+	padding:10em 0 0;
+	height:90vh;
+}
+header {
+    padding: 1em;
+    margin: 1em;
+}
+.img1 {
+    float: left;
+    border-radius: 100%;
+    width: 20%;
+    margin: 1em 40px 2.5em 0;
+}
+#me {
+    margin: 1em 0 2.5em 0;
+}
+#whyimprov {
+    padding: 60px 0;
+    margin: auto;
+    width: 100%;
+    max-width: 800px;
+}
+#improvrules {
+    padding: .25em;
+    margin: 0;
+    color: #fff;
+    background-color: #F95509 ;
+    clear: both;
+  }
+footer {
+    padding: 10px;
+    text-align: center;
+    margin: 1em 0 2.5em 0;
+}
+nav {
+  font-size: 1em;
+  float: right;
+}
+nav a {
+  text-decoration: none;
+  color: #2B2B2B;
+  margin: 0;
+  padding: 1.5em;
+}
+a:hover {
+  color: #F95509;
+  padding: 1.5em;
+}
+.logo {
+  margin: 0;
+  float: left;
+}
+#rules {
+  text-align: center;
+}
+.column {
+  width: 28%;
+  padding: 2em;
+  margin: 2%;
+  float: left;
+  color: #fff;
+}
+.clearfix:after {
+  content: " ";
+  visibility: hidden;
+  display: block;
+  height: 0;
+  clear: both;
+}
+footer {
+    text-align: center;
+    clear: both;
+    background-color: #333;
+    color: #fff;
+    margin: 0;
+}
+#research {
+  text-align: left;
+  margin: auto;
+  padding: 2em;
+  max-width: 80em;
+}
+.egg {
+  background-color: #eee;
+  width: 100%;
+}
+.wrapper {
+  max-width: 80em;
+  margin: 0 auto;
+}
+.chart {
+  float: right;
+  width: 20%;
+  border-radius: 10%;
+  margin: 1em 40px 2.5em 0;
+}
+#sup {
+  margin: 1em 0 2.5em 0;
+  font-style: italic;
+}
