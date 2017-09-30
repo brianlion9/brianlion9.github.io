@@ -126,6 +126,7 @@ footer {
   margin: 1em 0 2.5em 0;
   padding: 2em;
   font-style: italic;
+  clear: both;
 }
 .egg {
   background-color: #eee;
@@ -134,4 +135,7 @@ footer {
 .wrapper {
   max-width: 80em;
   margin: 0 auto;
+}
+#chart {
+  float: right;
 }
