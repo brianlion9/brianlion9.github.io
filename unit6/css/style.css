@@ -123,9 +123,11 @@ footer {
     margin: 0;
 }
 #research {
-  margin: 1em 0 2.5em 0;
-  padding: 2em;
-  font-style: italic;
+  text-align: center;
+  padding: .25em;
+  margin: auto;
+  padding: 1em;
+  max-width: 80em;
   clear: both;
 }
 .egg {
@@ -140,4 +142,8 @@ footer {
   float: right;
   width: 20%;
   margin: 1em 40px 2.5em 0;
+}
+#sup {
+  margin: 1em 0 2.5em 0;
+  font-style: italic;
 }
