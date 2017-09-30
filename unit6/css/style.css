@@ -136,6 +136,8 @@ footer {
   max-width: 80em;
   margin: 0 auto;
 }
-#chart {
+.chart {
   float: right;
+  width: 20%;
+  margin: 1em 40px 2.5em 0;
 }
