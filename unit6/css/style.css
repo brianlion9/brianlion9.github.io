@@ -134,10 +134,10 @@ footer {
 .wrapper {
   max-width: 80em;
   margin: 0 auto;
+  clear: both;
 }
 #chart {
   float: right;
 }
 #sup {
-  float: left;
 }
