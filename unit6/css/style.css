@@ -53,7 +53,7 @@ header {
     padding: 1em;
     margin: 1em;
 }
- {
+img {
     float: left;
     border-radius: 100%;
     width: 20%;
@@ -123,11 +123,9 @@ footer {
     margin: 0;
 }
 #research {
-  text-align: left;
-  padding: .25em;
-  margin: auto;
-  padding: 1em;
-  max-width: 80em;
+  margin: 1em 0 2.5em 0;
+  padding: 2em;
+  font-style: italic;
   clear: both;
 }
 .egg {
