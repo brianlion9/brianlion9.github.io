@@ -151,8 +151,10 @@ footer {
   text-align: center;
   font-size: 80px;
   padding: 60px 0;
-  margin: auto;
+  margin: 0 auto;
   width: 100%;
-  max-width: 800px;
-  background-color: #827E7C;
+  max-width: 80em;
 }
+.grey{
+  background-color: #eee;
+  width: 100%;
