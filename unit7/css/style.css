@@ -147,7 +147,7 @@ footer {
   font-style: italic;
 }
 #funny {
-  color: #F95509;
+  color: #fff;
   text-align: center;
   font-size: 80px;
   padding: 60px 0;
@@ -156,5 +156,5 @@ footer {
   max-width: 80em;
 }
 .grey{
-  background-color: #eee;
+  background-color: #F95509;
   width: 100%;
