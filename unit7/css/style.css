@@ -149,11 +149,12 @@ footer {
 #funny {
   color: #fff;
   text-align: center;
-  font-size: 80px;
-  padding: 2em;
+  font-size: 100px;
+  padding: 1.5em;
   margin: 0 auto;
   width: 100%;
   max-width: 80em;
+  letter-spacing: 1.5px;
 }
 .grey{
   background-color: #333;
