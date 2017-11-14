@@ -29,6 +29,12 @@ h2 {
 }
 h3 {
   font-size: 20px;
+  letter-spacing: 2px;
+  font-weight: 300;
+  font-style: normal;
+}
+h4 {
+  font-size: 20px;
   text-transform: uppercase;
   letter-spacing: 2px;
   font-weight: 300;
