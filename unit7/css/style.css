@@ -48,6 +48,9 @@ h4 {
   background-color: #009FB7;
   color: #fff;
 }
+#aboutme .wrapper {
+  max-width: 60em;
+}
 #intro {
 	background:url(../images/improvgroup.jpeg);
 	background-size:cover;
