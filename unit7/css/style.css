@@ -10,9 +10,6 @@ body {
     line-height:1.5;
     text-align: left;
 }
-#slogan {
-	font-style: italic;
-}
 #logo {
   margin: 1em 0 2.5em 0;
 }
@@ -53,6 +50,8 @@ h4 {
 	background-size:cover;
 	color:#fff;
 	height:90vh;
+  text-align: center;
+  padding: 30vh 0;
 }
 header {
   padding: 1em;
