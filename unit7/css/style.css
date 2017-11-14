@@ -41,6 +41,8 @@ h3 {
   padding: 1em;
   max-width: 80em;
   clear: both;
+  background-color: #009FB7;
+  color: #fff;
 }
 #intro {
 	background:url(../images/improvgroup.jpeg);
