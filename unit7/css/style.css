@@ -55,13 +55,14 @@ header {
   background-color: #009FB7;
 }
 .img1 {
-    float: left;
+    float: right;
     border-radius: 100%;
     width: 20%;
     margin: 1em 40px 2.5em 0;
 }
 #me {
     margin: 1em 0 2.5em 0;
+    text-align: left;
 }
 #whyimprov {
     padding: 60px 0;
