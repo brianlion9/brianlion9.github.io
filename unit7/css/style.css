@@ -55,7 +55,6 @@ h4 {
 	background:url(../images/improvgroup.jpeg);
 	background-size:cover;
 	color:#fff;
-	padding:10em 0 0;
 	height:90vh;
 }
 header {
@@ -74,13 +73,11 @@ header {
     text-align: left;
 }
 #whyimprov {
-    padding: 60px 0;
     margin: auto;
     width: 100%;
     max-width: 1000px;
 }
 #improvrules {
-    padding: .25em;
     margin: 0;
     color: #666;
     background-color: #fff ;
@@ -135,7 +132,6 @@ footer {
 #research {
   text-align: left;
   margin: auto;
-  padding: 2em;
   max-width: 100%;
   background: #E3513E;
   color: #fff;
