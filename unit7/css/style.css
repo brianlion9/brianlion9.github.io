@@ -54,6 +54,9 @@ h4 {
   padding: 30vh 0;
   font-size: 100px;
 }
+#intro p{
+  font-size: 20px;
+}
 header {
   padding: 1em;
   color: #fff;
