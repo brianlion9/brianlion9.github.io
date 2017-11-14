@@ -92,9 +92,8 @@ nav a {
   padding: 1.5em;
   color: #fff;
 }
-a:hover {
+nav a:hover {
   color: #F95509;
-  padding: 1.5em;
 }
 .logo {
   margin: 0;
