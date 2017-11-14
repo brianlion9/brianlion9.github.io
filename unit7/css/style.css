@@ -162,12 +162,19 @@ footer {
 #box{
   float: right;
   border: 3px solid #009FB7;
-  border-radius: 5%;
+  border-radius: 2%;
   color: #E3513E;
-  padding: 2em;
+  padding: 1.25em;
   margin: 0 2em 1em 2em;
   text-align: center;
   font-size: 28px;
+  font-weight: 600;
+}
+.red{
+  color: #E3513E;
+}
+.blue{
+  color: #009FB7;
 }
 
 
