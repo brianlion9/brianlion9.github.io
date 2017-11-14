@@ -140,9 +140,8 @@ footer {
   margin: 0 auto;
 }
 .chart {
-  float: right;
+  float: left;
   width: 20%;
-  border-radius: 10%;
   margin: 1em 40px 2.5em 0;
 }
 #sup {
