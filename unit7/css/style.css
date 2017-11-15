@@ -16,10 +16,14 @@ body {
 p {
 	margin: 1em 0 2.5em 0;
 	font-family: 'Antic Slab', serif;
+  z-index: 9;
+  position: relative;
 }
 h1 {
 	font-weight: 700;
 	font-size: 52px;
+  z-index: 9;
+  position: relative;
 }
 h2 {
 	font-size:28px;
