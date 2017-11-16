@@ -142,6 +142,7 @@ footer {
 .wrapper {
   max-width: 80em;
   margin: 0 auto;
+  overflow: hidden;
 }
 .chart {
   float: left;
