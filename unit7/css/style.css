@@ -142,7 +142,6 @@ footer {
 .wrapper {
   max-width: 80em;
   margin: 0 auto;
-  overflow: hidden;
 }
 .chart {
   float: left;
@@ -197,5 +196,8 @@ section{
 .img2{
   height: 5%;
   width: 5%;
+}
+#nowrap{
+  overflow: hidden;
 }
 
