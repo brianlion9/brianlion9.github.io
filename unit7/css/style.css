@@ -200,4 +200,10 @@ section{
 #nowrap{
   overflow: hidden;
 }
+.c1{
+  width: 66%;
+}
+.c2{
+  width: 33%;
+}
 
