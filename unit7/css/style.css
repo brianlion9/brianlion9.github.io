@@ -145,7 +145,7 @@ footer {
 }
 .chart {
   float: left;
-  width: 20%;
+  width: 100%;
   margin: 1em 40px 2.5em 0;
 }
 #sup {
