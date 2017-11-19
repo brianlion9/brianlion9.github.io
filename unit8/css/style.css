@@ -206,7 +206,7 @@ section{
   width: 60%;
 }
 #circle{
-  float: right;
+  float: left;
   border: 6px solid #E3513E;
   border-radius: 100%;
   padding: 4em;
