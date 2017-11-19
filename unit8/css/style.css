@@ -205,4 +205,13 @@ section{
 .c2{
   width: 60%;
 }
-
+#circle{
+  float: right;
+  border: 3px solid #E3513E;
+  border-radius: 100%;
+  padding: 1.25em;
+  margin: 0 2em 1em 2em;
+  text-align: center;
+  font-size: 28px;
+  font-weight: 600;
+}
