@@ -146,8 +146,9 @@ footer {
   max-width: 1000px;
 }
 .chart {
-  width: 90%;
+  width: 20%;
   margin: 1em 40px 2.5em 0;
+  float: left;
 }
 #sup {
   margin: 1em 0 2.5em 0;
