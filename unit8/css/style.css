@@ -202,7 +202,7 @@ section{
   width: 60%;
 }
 #circle{
-  float: left;
+  float: right;
   border: 6px solid #E3513E;
   border-radius: 100%;
   padding: 4em;
