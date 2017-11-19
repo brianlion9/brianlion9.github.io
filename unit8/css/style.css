@@ -86,10 +86,6 @@ header {
     background-color: #fff ;
     clear: both;
   }
-footer {
-    padding: 10px;
-    text-align: center;
-    margin: auto;
 }
 nav {
   font-size: 1em;
@@ -130,7 +126,7 @@ footer {
     clear: both;
     background-color: #333;
     color: #fff;
-    margin: 0;
+    margin: auto;
 }
 #research {
   text-align: left;
