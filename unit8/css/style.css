@@ -196,10 +196,13 @@ section{
 .c2{
   width: 60%;
 }
-.circle{
+.circle h5{
+  font-size: 18px;
+}
+.circle p{
+  margin: 0;
   background: #F4F4F4;
   border-radius: 3px;
-  padding: 1em;
+  padding: 2em;
   border: 2px solid #E3513E;
-
 }
