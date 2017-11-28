@@ -61,7 +61,7 @@ h4 {
   font-size: 20px;
 }
 header {
-  padding: 1em;
+  padding: 1em 1em .25em 1em;
   color: #fff;
   background-color: #009FB7;
 }
@@ -90,6 +90,7 @@ section#improvrules {
 nav {
   font-size: 1em;
   float: right;
+  margin: 10px;
 }
 nav a {
   text-decoration: none;
