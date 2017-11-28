@@ -232,7 +232,7 @@ section#testimonial{
 .img3{
   width: 150px;
 }
-touch{
-  float: right;
+#footer .img3{
+  float: left;
 }
 
