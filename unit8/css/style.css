@@ -196,13 +196,19 @@ section{
 .c2{
   width: 60%;
 }
-.circle h5{
+.circle h5,
+.circle h6{
   font-size: 18px;
   margin: 10px 0 0 0;
   line-height: 1.3em;
   text-align: right;
   font-weight: 400;
   font-family: 'Antic Slab', serif;
+}
+.circle h6{
+  font-style: italic;
+  margin: 0;
+  font-size: 14px;
 }
 .circle p{
   margin: 0;
@@ -217,3 +223,4 @@ section{
 section#testimonial{
   text-align: center;
 }
+
