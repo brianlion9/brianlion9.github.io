@@ -114,6 +114,7 @@ nav a:hover {
   margin: 2%;
   vertical-align: top;
   display: inline-block;
+  text-align: left;
 }
 .clearfix:after {
   content: " ";
@@ -196,6 +197,9 @@ section{
 .c2{
   width: 60%;
   display: inline-block;
+}
+#research .c2{
+  margin: 0 0 0 5%;
 }
 .circle h5,
 .circle h6{
