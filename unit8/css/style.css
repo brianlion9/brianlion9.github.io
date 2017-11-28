@@ -132,7 +132,7 @@ footer {
     margin: auto;
     max-width: 100%;
     width: 100%;
-    padding: 1em 1em .25em 1em;
+    padding: 2em;
 
 }
 #research {
@@ -236,6 +236,5 @@ section#testimonial{
 }
 #footer .img3{
   float: left;
-  padding: 1em 1em .25em 1em;
 }
 
