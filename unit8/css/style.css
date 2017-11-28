@@ -80,13 +80,13 @@ header {
     width: 100%;
     max-width: 1000px;
 }
-#improvrules {
+section#improvrules {
     margin: 0;
     color: #666;
     background-color: #fff ;
     clear: both;
+    text-align: center;
   }
-}
 nav {
   font-size: 1em;
   float: right;
@@ -213,4 +213,7 @@ section{
 }
 .circle{
   padding: 0;
+}
+section#testimonial{
+  text-align: center;
 }
