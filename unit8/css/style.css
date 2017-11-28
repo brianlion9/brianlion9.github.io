@@ -197,10 +197,8 @@ section{
   width: 60%;
 }
 .circle{
-  border: 6px solid #E3513E;
-  border-radius: 100%;
-  padding: 4em;
-  margin: 2%;
-  text-align: center;
-  display: inline-block;
+  background: #F4F4F4;
+  border-radius: 3px;
+  padding: 1em;
+  
 }
