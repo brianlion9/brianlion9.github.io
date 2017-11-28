@@ -198,6 +198,11 @@ section{
 }
 .circle h5{
   font-size: 18px;
+  margin: 10px 0 0 0;
+  line-height: 1.3em;
+  text-align: right;
+  font-weight: 400;
+  font-family: 'Montserrat', sans-serif;
 }
 .circle p{
   margin: 0;
@@ -205,4 +210,7 @@ section{
   border-radius: 3px;
   padding: 2em;
   border: 2px solid #E3513E;
+}
+.circle{
+  padding: 0;
 }
