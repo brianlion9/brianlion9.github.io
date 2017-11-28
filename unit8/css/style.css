@@ -145,9 +145,9 @@ footer {
   max-width: 1000px;
 }
 .chart {
-  width: 20%;
-  margin: 1em 40px 2.5em 0;
-  float: left;
+  width: 100%;
+  display: inline-block;
+  padding: 0 10% 0 0;
 }
 #sup {
   margin: 1em 0 2.5em 0;
@@ -191,10 +191,12 @@ section{
   width: 5%; 
 }
 .c1{
-  width: 25%;
+  width: 30%;
+  display: inline-block;
 }
 .c2{
   width: 60%;
+  display: inline-block;
 }
 .circle h5,
 .circle h6{
