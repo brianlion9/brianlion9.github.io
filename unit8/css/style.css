@@ -112,7 +112,7 @@ nav a:hover {
   width: 28%;
   padding: 2em;
   margin: 2%;
-  float: left;
+  vertical-align: top;
 }
 .clearfix:after {
   content: " ";
@@ -195,11 +195,11 @@ section{
 .c2{
   width: 60%;
 }
-#circle{
-  float: right;
+.circle{
   border: 6px solid #E3513E;
   border-radius: 100%;
   padding: 4em;
-  margin: 2em;
+  margin: 2%;
   text-align: center;
+  display: inline-block;
 }
