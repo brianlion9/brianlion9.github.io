@@ -153,9 +153,6 @@ footer {
   margin: 1em 0 2.5em 0;
 }
 }
-.grey{
-  color: #666;
-}
 #box{
   float: right;
   border: 3px solid #009FB7;
@@ -166,6 +163,9 @@ footer {
   text-align: center;
   font-size: 28px;
   font-weight: 600;
+}
+.grey{
+  color: #666;
 }
 .red{
   color: #E3513E;
