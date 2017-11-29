@@ -264,7 +264,7 @@ section#testimonial{
 @media only screen and (max-width: 1100px) {
   .chart {
     float: none;
-    width: auto;
+    width: 80%;
     padding: 2em;
     margin: 2em;
   }
@@ -272,7 +272,7 @@ section#testimonial{
 @media only screen and (max-width: 1100px) {
   #aboutme {
     float: none;
-    width: auto;
+    width: 100%;
     padding: 2em;
     margin: 2em;
   }
