@@ -237,7 +237,7 @@ section#testimonial{
 #footer .img3{
   float: left;
 }
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 1200px) {
   .box {
     float: none;
     width: auto;
