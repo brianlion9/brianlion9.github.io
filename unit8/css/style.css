@@ -278,8 +278,8 @@ section#testimonial{
 @media only screen and (max-width: 1100px) {
   .img1 {
     float: none;
-    width: auto;
-    padding: 2em;
+    width: 50%;
+    padding: 1em;
     margin: 2em;
   }
 }
