@@ -258,13 +258,12 @@ section#testimonial{
     float: none;
     width: auto;
     padding: 2em;
-    margin: 2em;
   }
 }
 @media only screen and (max-width: 1100px) {
   .chart {
     float: none;
-    width: 80%;
+    width: 40%;
     padding: 2em;
     margin: 2em;
   }
@@ -274,7 +273,6 @@ section#testimonial{
     float: none;
     width: 100%;
     padding: 2em;
-    margin: 2em;
   }
 }
 @media only screen and (max-width: 1100px) {
