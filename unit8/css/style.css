@@ -241,6 +241,8 @@ section#testimonial{
   .box {
     float: none;
     width: auto;
+    padding: 2em;
+    margin: 2em;
   }
 }
 @media only screen and (max-width: 1100px) {
