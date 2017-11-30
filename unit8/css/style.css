@@ -283,4 +283,7 @@ section#testimonial{
     padding: 1em;
     margin: 1em;
   }
+  #bg {
+    width: 320px;
+  }
 }
