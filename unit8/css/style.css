@@ -236,7 +236,7 @@ section#testimonial{
 #footer .img3{
   float: left;
 }
-@media only screen and (max-width: 1100px) {
+@media only screen and (max-width: 780px) {
   .box {
     float: none;
     width: auto;
@@ -275,5 +275,6 @@ section#testimonial{
     display: block;
     text-align: center;
     margin: 0;
+    padding: .5em;
   }
 }
