@@ -276,5 +276,6 @@ section#testimonial{
     text-align: center;
     margin: 0;
     padding: .5em;
+    float: none;
   }
 }
