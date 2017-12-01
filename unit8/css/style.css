@@ -275,11 +275,10 @@ section#testimonial{
     display: block;
     margin: 0;
     padding: .25em;
+    float: none;
   }
   .img3 {
-    float: none;
     width: 40%;
-    padding: 1em;
     margin: 1em;
   }
   #bg {
