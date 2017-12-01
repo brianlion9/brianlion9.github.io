@@ -238,8 +238,6 @@ section#testimonial{
 }
 @media only screen and (max-width: 1180px) {
   .box {
-    float: none;
-    width: auto;
     padding: 2em;
     margin: 2em;
   }
@@ -284,7 +282,7 @@ section#testimonial{
     margin: 1em;
   }
   #bg {
-    width: 70%;
+    width: 100%;
   }
   .c1 {
     width:100%;
