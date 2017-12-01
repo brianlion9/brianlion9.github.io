@@ -251,12 +251,12 @@ section#testimonial{
   }
   #research {
     float: none;
-    width: auto;
+    width: 100%;
     padding: 2em;
   }
   .chart {
     float: none;
-    width: auto;
+    width: 100%;
     padding: 2em;
     margin: 2em;
   }
