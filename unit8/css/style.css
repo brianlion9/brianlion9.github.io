@@ -240,6 +240,7 @@ section#testimonial{
   .box {
     padding: 2em;
     margin: 2em auto;
+    float: none;
   }
   #whyimprov {
     float: none;
@@ -290,5 +291,8 @@ section#testimonial{
   }
   .c2 {
     width:100%;
+  }
+  header {
+    text-align: center;
   }
 }
