@@ -239,13 +239,13 @@ section#testimonial{
 @media only screen and (max-width: 1180px) {
   .box {
     padding: 2em;
-    margin: 2em;
+    margin: 2em auto;
   }
   #whyimprov {
     float: none;
     width: 100%;
     padding: 2em;
-    margin: 2em;
+    margin: 2em auto;
   }
   #research {
     float: none;
@@ -256,7 +256,7 @@ section#testimonial{
     float: none;
     width: 70%;
     padding: 2em;
-    margin: 2em;
+    margin: 2em auto;
   }
   #aboutme {
     float: none;
