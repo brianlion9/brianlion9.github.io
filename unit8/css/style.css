@@ -309,17 +309,17 @@ section#testimonial{
 @media only screen and (max-width: 650px) {
   #improvrules {
     float: none;
-    width: 100%
+    width: 100%;
     padding: 2em;
   }
   #testimonial {
     float: none;
-    width: 100%
+    width: 100%;
     padding: 2em;
   }
   .column {
     float: none;
-    width: 100%
+    width: 100%;
     padding: 1em;
   }
 }
