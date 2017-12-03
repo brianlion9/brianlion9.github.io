@@ -317,6 +317,11 @@ section#testimonial{
     width: 100%
     padding: 2em;
   }
+  .column {
+    float: none;
+    width: 100%
+    padding: 1em;
+  }
 }
 
 
