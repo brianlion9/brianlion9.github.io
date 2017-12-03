@@ -276,9 +276,11 @@ section#testimonial{
     margin: 0;
     padding: .25em;
     float: none;
+    border-top: 1px solid;
+    border-color: #589FB7
   }
   .img3 {
-    width: 40%;
+    width: 15em;
     margin: 1em;
   }
   #bg {
