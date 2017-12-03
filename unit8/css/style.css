@@ -306,3 +306,17 @@ section#testimonial{
     float: none;
   }
 }
+@media only screen and (max-width: 650px) {
+  #improvrules {
+    float: none;
+    width: 100%
+    padding: 2em;
+  }
+  #testimonial {
+    float: none;
+    width: 100%
+    padding: 2em;
+  }
+}
+
+
