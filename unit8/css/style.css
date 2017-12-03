@@ -306,10 +306,10 @@ section#testimonial{
     float: none;
   }
   .img2 {
-    width: 15em;
+    width: 5em;
   }
 }
-@media only screen and (max-width: 750px) {
+@media only screen and (max-width: 850px) {
   #improvrules {
     float: none;
     width: 100%;
