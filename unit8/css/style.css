@@ -297,4 +297,10 @@ section#testimonial{
     float: none;
     display: block;
   }
+  nav {
+    display: block;
+    margin: 0;
+    padding: .25em;
+    float: none;
+  }
 }
