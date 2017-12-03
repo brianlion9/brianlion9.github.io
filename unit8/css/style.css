@@ -256,7 +256,7 @@ section#testimonial{
   }
   .chart {
     float: none;
-    width: 70%;
+    width: 20em;
     padding: 2em;
     margin: 2em auto;
   }
@@ -267,7 +267,7 @@ section#testimonial{
   }
   .img1 {
     float: none;
-    width: 50%;
+    width: 17em;
     padding: 1em;
     margin: 1em;
   }
