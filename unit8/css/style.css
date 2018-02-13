@@ -242,7 +242,7 @@ section#testimonial{
 @media only screen and (max-width: 1180px) {
   .box {
     padding: 1em;
-    margin: .5em auto;
+    margin: .5em auto 0 auto;
     float: none;
     line-height: 1.5em;
   }
@@ -274,13 +274,22 @@ section#testimonial{
     padding: 1em;
     margin: 1em;
   }
-  nav a {
+  nav {
     display: block;
     margin: 0;
     padding: .25em;
     float: none;
-    border-top: 1px solid;
-    border-color: #6E9FB7;
+    font-size: 0;
+  }
+  nav a {
+    display: inline-block;
+    border-radius: 2px;
+    font-size: 1em;
+    margin: 2px;
+    padding: 5px 10px;
+  }
+  nav a:hover{
+    background: #fff;
   }
   .img3 {
     max-width: 20em;
@@ -302,17 +311,12 @@ section#testimonial{
     float: none;
     display: block;
   }
-  nav {
-    display: block;
-    margin: 0;
-    padding: .25em;
-    float: none;
-  }
   .img2 {
     width: 5em;
   }
   #rules{
-    margin: .5em;
+    margin: .5em 0;
+    line-height: 1.3em;
   }
   #improvrules {
     float: none;
