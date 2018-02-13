@@ -57,7 +57,7 @@ h4 {
   padding: 30vh 0;
   font-size: 100px;
   position: relative;
-
+  margin: 0 0 5% 0;
 }
 #intro p{
   font-size: 20px;
@@ -66,6 +66,8 @@ header {
   padding: 1em 1em .25em 1em;
   color: #fff;
   background-color: #009FB7;
+  position: relative;
+  z-index: 11;
 }
 .img1 {
     float: right;
@@ -182,14 +184,20 @@ section{
 }
 #bg{
   position: absolute;
-  width: 100%;
-  height: 100%;
+  width: 110%;
+  height: 110%;
   opacity: .4;
   background:url(../images/improvgame.jpg);
   background-size:cover;
   z-index: 1;
   top: 0;
   background-position: center center;
+  -webkit-transform: rotate(-5deg);
+  -moz-transform: rotate(-5deg);
+  -o-transform: rotate(-5deg);
+  -ms-transform: rotate(-5deg);
+  transform: rotate(-5deg);
+  left: -5%;
 }
 .img2{
   height: 5%;
@@ -309,7 +317,7 @@ section#testimonial{
   }
   header {
     text-align: center;
-    padding: 2em;
+    padding: 1.5em;
     margin: 0 auto;
     float: none;
     display: block;
