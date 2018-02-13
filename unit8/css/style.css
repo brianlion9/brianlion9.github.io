@@ -259,8 +259,8 @@ section#testimonial{
   }
   .chart {
     float: none;
-    width: 20em;
-    padding: 2em;
+    width: 100%;
+    padding: 0 30px 10px 0;
     margin: .5em auto;
   }
   #aboutme {
