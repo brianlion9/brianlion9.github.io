@@ -296,6 +296,9 @@ section#testimonial{
     width: 100%;
     margin: 1em 0;
   }
+  header .img3{
+    margin:1em 0 0 0;
+  }
   .c1 {
     width:100%;
   }
@@ -306,7 +309,7 @@ section#testimonial{
   }
   header {
     text-align: center;
-    padding: 2em
+    padding: 2em;
     margin: 2em auto;
     float: none;
     display: block;
