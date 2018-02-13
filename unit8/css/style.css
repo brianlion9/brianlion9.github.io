@@ -248,6 +248,9 @@ section#testimonial{
   float: left;
 }
 @media only screen and (max-width: 1180px) {
+  #intro {
+    margin: 0 0 20% 0;
+  }
   .box {
     padding: 1em;
     margin: .5em auto 0 auto;
