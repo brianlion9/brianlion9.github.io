@@ -75,38 +75,6 @@ h4 {
   width: 100%;
 }
 
-/*
-#intro {
-  background: #41ade5;
-  position: relative;
-  z-index: 1;
-  background:url(../images/improvgame.jpg);
-  background-size:cover;
-
-}
-#intro:before,
-#intro:after {
-  background: inherit;
-  content: '';
-  display: block;
-  height: 50%;
-  left: 0;
-  position: absolute;
-  right: 0;
-  z-index: -1;
-  -webkit-backface-visibility: hidden; // for Chrome Windows
-}
-#intro:before {
-  top: 0;
-  transform: skewY(1.5deg);
-  transform-origin: 100% 0;
-}
-#intro:after {
-  bottom: 0;
-  transform: skewY(-1.5deg);
-  transform-origin: 100%;
-}
-*/
 header {
   padding: 1em 1em .25em 1em;
   color: #fff;
@@ -227,23 +195,6 @@ footer {
 section{
   padding: 3em 0;
 }
-/*#bg{
-  position: absolute;
-  width: 110%;
-  height: 110%;
-  opacity: .4;
-  background:url(../images/improvgame.jpg);
-  background-size:cover;
-  z-index: 1;
-  top: 0;
-  background-position: center center;
-  -webkit-transform: rotate(-4deg);
-  -moz-transform: rotate(-4deg);
-  -o-transform: rotate(-4deg);
-  -ms-transform: rotate(-4deg);
-  transform: rotate(-4deg);
-  left: -5%;
-}*/
 
 
 .social{
