@@ -183,7 +183,7 @@ footer {
 section{
   padding: 3em 0;
 }
-#bg{
+/*#bg{
   position: absolute;
   width: 110%;
   height: 110%;
@@ -199,7 +199,35 @@ section{
   -ms-transform: rotate(-4deg);
   transform: rotate(-4deg);
   left: -5%;
+}*/
+#bg {
+  background: #41ade5;
+  position: relative;
+  z-index: 1;
 }
+#bg:before,
+#bg:after {
+  background: inherit;
+  content: '';
+  display: block;
+  height: 50%;
+  left: 0;
+  position: absolute;
+  right: 0;
+  z-index: -1;
+  -webkit-backface-visibility: hidden; // for Chrome Windows
+}
+#bg:before {
+  top: 0;
+  transform: skewY(1.5deg);
+  transform-origin: 100% 0;
+}
+#bg:after {
+  bottom: 0;
+  transform: skewY(-1.5deg);
+  transform-origin: 100%;
+}
+
 .img2{
   height: 5%;
   width: 5%; 
