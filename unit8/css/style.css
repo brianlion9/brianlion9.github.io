@@ -61,10 +61,18 @@ h4 {
   background:url(../images/improvgame.jpg);
   background-size:cover;
   margin: -15px 0 0 0;
-
+  background-position: center center;
 }
 #intro p{
   font-size: 20px;
+}
+#intro .white{
+  background: rgba(255,255,255,0.2);
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
 }
 
 /*
