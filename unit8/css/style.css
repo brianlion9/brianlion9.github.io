@@ -67,6 +67,9 @@ h4 {
   background: #41ade5;
   position: relative;
   z-index: 1;
+  background:url(../images/improvgame.jpg);
+  background-size:cover;
+
 }
 #intro:before,
 #intro:after {
