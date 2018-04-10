@@ -246,9 +246,10 @@ section{
 }*/
 
 
-.img2{
-  height: 5%;
-  width: 5%; 
+.social{
+  margin: 10px;
+  width: 100%;
+  max-width: 50px;
 }
 .c1{
   width: 30%;
