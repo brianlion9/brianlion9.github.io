@@ -52,16 +52,43 @@ h4 {
 }
 #intro {
 	color:#666;
-	height:90vh;
+	/*height:90vh;*/
   text-align: center;
   padding: 30vh 0;
   font-size: 100px;
   position: relative;
-  margin: 0 0 8% 0;
-  overflow-x: hidden;
+  /*margin: 0 0 8% 0;*/
+  /*overflow-x: hidden;*/
 }
 #intro p{
   font-size: 20px;
+}
+#intro {
+  background: #41ade5;
+  position: relative;
+  z-index: 1;
+}
+#intro:before,
+#intro:after {
+  background: inherit;
+  content: '';
+  display: block;
+  height: 50%;
+  left: 0;
+  position: absolute;
+  right: 0;
+  z-index: -1;
+  -webkit-backface-visibility: hidden; // for Chrome Windows
+}
+#intro:before {
+  top: 0;
+  transform: skewY(1.5deg);
+  transform-origin: 100% 0;
+}
+#intro:after {
+  bottom: 0;
+  transform: skewY(-1.5deg);
+  transform-origin: 100%;
 }
 header {
   padding: 1em 1em .25em 1em;
@@ -200,33 +227,7 @@ section{
   transform: rotate(-4deg);
   left: -5%;
 }*/
-#bg {
-  background: #41ade5;
-  position: relative;
-  z-index: 1;
-}
-#bg:before,
-#bg:after {
-  background: inherit;
-  content: '';
-  display: block;
-  height: 50%;
-  left: 0;
-  position: absolute;
-  right: 0;
-  z-index: -1;
-  -webkit-backface-visibility: hidden; // for Chrome Windows
-}
-#bg:before {
-  top: 0;
-  transform: skewY(1.5deg);
-  transform-origin: 100% 0;
-}
-#bg:after {
-  bottom: 0;
-  transform: skewY(-1.5deg);
-  transform-origin: 100%;
-}
+
 
 .img2{
   height: 5%;
