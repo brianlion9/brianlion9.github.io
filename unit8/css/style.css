@@ -213,26 +213,29 @@ section{
 #research .c2{
   margin: 0 0 0 5%;
 }
-.circle h5,
-.circle h6{
-  font-size: 18px;
+.circle h5, 
+.circle h6 {
+  font-size: 20px;
   margin: 10px 0 0 0;
   line-height: 1.3em;
   text-align: right;
   font-weight: 400;
   font-family: 'Antic Slab', serif;
 }
-.circle h6{
-  font-style: italic;
+.circle h6 {
   margin: 0;
-  font-size: 14px;
+  font-size: 16px;
+  opacity: 0.4;
 }
-.circle p{
-  margin: 0;
-  background: #F4F4F4;
-  border-radius: 3px;
+.circle p {
   padding: 2em;
   border: 2px solid #E3513E;
+  background: #E3513E;
+  color: #fff;
+  border-radius: 30px;
+  margin: 0 0 20px 0;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
 }
 .circle{
   padding: 0;
